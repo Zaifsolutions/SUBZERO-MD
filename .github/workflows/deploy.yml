@@ -1,4 +1,4 @@
-name: SUBZERO-MD-DEPLOY
+name: ZAIFSECURITY-MD-DEPLOY
 on:
   workflow_dispatch:
 jobs:
