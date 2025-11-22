@@ -2,12 +2,12 @@
 
 
 
-<h1 align="center">𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 </h1>
+<h1 align="center">MUHAMMAD ZAIF PALESTINE</h1>
 
 <img align="center" height="auto"
-src="https://dabby.vercel.app/submenu.png">
+src="https://i.postimg.cc/SxDqXM3G/b80609d0-0f88-4aa0-83c1-e1d1f68ba5d7.png">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+SUBZERO+MD+MADE+BY;MR+FRANK+OFC;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+ZAIFSECURITY+MD+MADE+BY;MR+MUHAMMAD+ZAIF+PALESTINE;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
 <br>
 
    </p>
