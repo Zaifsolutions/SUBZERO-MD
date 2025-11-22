@@ -1,14 +1,14 @@
 
 {
-  "name": "SUBZERO-MD",
-  "description": "NodeJs Whatsapp bot By Mr Frank",
-  "logo": "https://mrfrankk-cdn.hf.space/mrfrank/subzero.png",
-  "keywords": ["SUBZERO-MD"],
+  "name": "ZAIFSECBOT-MD",
+  "description": "NodeJs Whatsapp bot By Muhammad Zaif Palestine",
+  "logo": "https://i.postimg.cc/SxDqXM3G/b80609d0-0f88-4aa0-83c1-e1d1f68ba5d7.png",
+  "keywords": ["ZAIFSECBOT-MD"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
-      "description": "Put your Subzero session-id here.",
+      "description": "Ice~18dS5D",
       "required": true,
       "value": ""
     }
