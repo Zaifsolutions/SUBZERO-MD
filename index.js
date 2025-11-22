@@ -9,16 +9,16 @@ $$\   $$ |$$ |  $$ |$$ |  $$ | $$  _/   $$   ____|$$ |      $$ |  $$ |
 \$$$$$$  |\$$$$$$  |$$$$$$$  |$$$$$$$$\ \$$$$$$$\ $$ |      \$$$$$$  |
  \______/  \______/ \_______/ \________| \_______|\__|       \______/
 
-@ Project Name : SubZero MD
-* Creator      : Darrell Mucheri ( Mr Frank OFC )
+@ Project Name : ZaifSecurity MD
+* Creator      : Muhammad Zaif Palestine ( M_zaif OFC )
 * My Git       : https//github.com/mrfr8nk
-* Contact      : wa.me/263719647303
-* Channel      : https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
+* Contact      : wa.me/923185001234
+* Channel      : https://whatsapp.com/channel/0029VaCS51LDZ4LbdWTsM73u
 * Release Date : 15 Dececmber 2024 12.01 AM
 */
 
 
-// ZIMBABWEAN STAR ON TOP
+// Zaifsolutions STAR ON TOP
 const axios = require('axios');
 const vm = require('vm');
 const config = require('./settings.js');
